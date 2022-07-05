@@ -1,0 +1,32 @@
+
+
+#score{
+
+border-bottom: 1px solid black;
+
+}
+h2{
+
+  display: inline-block;  
+  
+}
+.left{
+
+  margin-left: 0.5em;
+}
+.right{
+margin-right: 0.5em;
+
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  .gb{
+
+      display: flex;
+  }
+  .gb button{
+    flex:1;
+
+  }
